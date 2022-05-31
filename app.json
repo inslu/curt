@@ -1,0 +1,16 @@
+{
+  "name": "Study",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "22974d1a-cbd6-4b6f-db1d-38d78b3fb110"
+    }
+  },
+  "website": "https://github.com/inslu/",
+  "repository": "https://github.com/inslu/Study",
+  "stack": "container"
+}
